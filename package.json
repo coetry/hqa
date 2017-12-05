@@ -1,0 +1,19 @@
+{
+  "name": "hqa-react",
+  "version": "1.0.0",
+  "description": "houstonquranacademy.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coetry/hqa.git"
+  },
+  "author": "StraightUp Growth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coetry/hqa/issues"
+  },
+  "homepage": "https://github.com/coetry/hqa#readme"
+}
